@@ -353,6 +353,71 @@ img{
 .tittle>span{
   color: #ff871c;
 }
+.about-area {
+	display: inline;
+	float: left;
+	margin-top: 45px;
+	margin-bottom: 25px;
+	width: 100%;
+}
+.about-left {
+	display: inline;
+	float: left;
+	height: 420px;
+	position: relative;
+	width: 445px;
+}
+.about-left img {
+	left: 23px;
+	position: absolute;
+	top: 23px;
+}
+.introduction-btn {
+	color: #f9fffd;
+	display: inline-block;
+	font-size: 25px;
+	left: 36%;
+	padding: 18px 16px;
+	position: absolute;
+	text-decoration: none;
+	top: 50%;
+}
+.introduction-btn:hover,
+.introduction-btn:focus{
+	color: #f9fffd;
+	text-decoration: none;
+	outline: none;
+}
+.about-right {
+	display: inline;
+	float: left;
+	padding-left: 85px;
+	padding-top: 20px;
+	width: 100%;
+}
+.about-right .title-area{
+	text-align: left;
+	padding: 0px;
+}
+.about-right .tittle{
+	padding-bottom: 47px;
+}
+.about-right .tittle-line {
+	height: 2px;
+	margin-bottom: 35px;
+	width: 100px;
+}
+.about-right p {
+	color: #535353;
+	font-family: "Raleway",sans-serif;
+	margin-bottom: 32px;
+}
+.about-btn-area{
+	float: left;
+	display: inline;
+	margin-top: 14px;
+	width: 100%;
+}
 .button {
 	float: left;	
 	display: block;
